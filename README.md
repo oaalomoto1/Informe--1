@@ -514,5 +514,17 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
   
  ![47 1](https://user-images.githubusercontent.com/116774906/200720312-d1aae6be-862b-4337-bf6e-6a22226a493a.JPG)
 
+***4. VIDEO***
 
+ *Link del video en YouTube*
+ 
+ https://www.youtube.com/watch?v=JOxXHBbThmE
+ 
+
+***5. CONCLUSIONES***
+
+ 
+ 
+
+***6.BIBLIOGRAFÍA***
 
