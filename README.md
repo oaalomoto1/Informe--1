@@ -528,3 +528,12 @@ cada una de las siguientes cantidades. Incluya la función y el intervalo apropi
 
 ***6.BIBLIOGRAFÍA***
 
+-Floyd, T. L. (2007). *Principios de circuitos electricos*. (8.a ed.). México. Pearson Educación.
+ 
+-Jimenez, A. (2020, 2 de octubre). *RESISTENCIAS FIJAS O RESISTORES ELÉCTRICOS*. Recuperado de. https://geekelectronica.com/resistencias-fijas-o-resistores-electricos/
+ 
+-Manzanas, J. (2021, 22 de abril). *Qué es un átomo: características y partes*. Recuperado de. https://okdiario.com/curiosidades/que-atomo-definicion-estructura-601498
+
+-Pina, S. (2022, 9 de julio). *Notación científica*. Recuperado de. https://www.todamateria.com/notacion-cientifica/
+ 
+-Rivera, J. (2019, 18 de junio). *VOLTAJE, CORRIENTE Y RESISTENCIA*. Recuperado de. https://pasionelectronica.com/voltaje-corriente-y-resistencia/
